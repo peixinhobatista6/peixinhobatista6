@@ -1,6 +1,6 @@
 - 👋 olá pessoal eu sou um visitante por uma temporada
-- 
-- 👀 quero ensinar para vocês iniciantes como dominar o termux o basico, e saber usar o html e o css ,o basico
+
+- 👀 quero ensinar para vocês iniciantes como dominar o termux com alguns comandos basico, e saber usar o html e o css ,com alguns comandos basicos.
   
 
 <!---
